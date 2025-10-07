@@ -81,7 +81,10 @@ gap: 8px;
     margin: 0;
     padding: 0;
     display: flex;
+<<<<<<< HEAD
     gap: 8px;
+=======
+>>>>>>> 0f005544913cd53dace9e88a0ea22353ee03493c
     }
 
 .price-divider {
@@ -90,6 +93,7 @@ gap: 8px;
     background-color: #2E405A;
 }
 
+<<<<<<< HEAD
 .bottom-row {
     width: 301px;
     height: 33px;
@@ -100,12 +104,23 @@ gap: 8px;
 .bottom-row img {
   width: 33px;
   height: 33px;
+=======
+.bottom-row img {
+  width: 33px;
+  height: 33px;
+  border: 1px solid white;
+  border-radius: 50%;
+>>>>>>> 0f005544913cd53dace9e88a0ea22353ee03493c
 }
 
 .bottom-row span {
     font-size: 18px;
     font-weight: 600;
     color: #00FFF8;
+<<<<<<< HEAD
+=======
+    margin-left: 8px;
+>>>>>>> 0f005544913cd53dace9e88a0ea22353ee03493c
     vertical-align: middle;
 }
 
